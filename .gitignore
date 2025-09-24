@@ -1,0 +1,12 @@
+# 忽略所有 .log 文件
+*.log
+# 忽略整个 logs 目录及其内容
+logs/
+# 忽略项目根目录下的 build 文件夹
+/build/
+# 忽略所有操作系统生成的 .DS_Store 文件
+.DS_Store
+# 忽略 Python 的编译缓存目录
+__pycache__/
+# 忽略 node.js 的依赖目录 node_modules/
+node_modules/
