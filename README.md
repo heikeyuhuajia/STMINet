@@ -5,7 +5,7 @@
 Intermingling Network for Remote
 Sensing Change Detection</h3>
 
-[Yuan Wang]()<sup>1</sup>, [Sixian Chan](https://scholar.google.com.hk/citations?user=2xsZC9wAAAAJ&hl=zh-CN&oi=ao)<sup>1 *</sup>, [Yanjing Lei](https://chengxihan.github.io/)<sup>1</sup>, [Wangjie Zhou]()<sup>1</sup>, [Jie Hu]()<sup>2</sup>, [Xiaolong Zhou]()<sup>3</sup>, [Tianyang Dong]()<sup>1</sup>
+[Yuan Wang]()<sup>1</sup>, [Sixian Chan](https://scholar.google.com.hk/citations?user=2xsZC9wAAAAJ&hl=zh-CN&oi=ao)<sup>1 *</sup>, [Yanjing Lei]()<sup>1</sup>, [Wangjie Zhou]()<sup>1</sup>, [Jie Hu]()<sup>2</sup>, [Xiaolong Zhou]()<sup>3</sup>, [Tianyang Dong]()<sup>1</sup>
 
 <sup>1</sup> Zhejiang University of Technology, <sup>2</sup> Wenzhou University,  <sup>3</sup> Quzhou University.
 
